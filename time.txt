@@ -76,3 +76,7 @@ Merge Sort: 2.55278
 Selection Sort: 2.50076
 Bubble Sort: 2.49944
 Quick Sort: 1.78276
+Merge Sort: 2.5529
+Bubble Sort: 2.49446
+Merge Sort: 2.56138
+Selection Sort: 2.51199
